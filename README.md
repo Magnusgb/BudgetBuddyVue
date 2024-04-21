@@ -1,6 +1,6 @@
 # expense
 
-This template should help get you started developing with Vue 3 in Vite.
+Budgetbuddy er en app hvor det er muligt at holde styr på sine ud- og indtægter på. Kører på localstorage pt, men igang med at kode en database til appen.
 
 ## Recommended IDE Setup
 
